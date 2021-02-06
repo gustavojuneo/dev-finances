@@ -1,8 +1,8 @@
 /* Global ===================== */
 :root {
   --dark-blue: #363f5f;
-  --green: #49aa26;
-  --light-green: #3dd705;
+  --primary-color: #49aa26;
+  --primary-light-color: #3dd705;
   --red: #e92929;
 }
 
@@ -50,12 +50,12 @@ h2 {
 
 /* Links & Buttons ===================== */
 a {
-  color: var(--green);
+  color: var(--primary-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--light-green);
+  color: var(--primary-light-color);
 }
 
 button {
@@ -65,7 +65,7 @@ button {
   border: none;
 
   color: white;
-  background-color: var(--green);
+  background-color: var(--primary-color);
 
   padding: 0;
 
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-  background: var(--light-green);
+  background: var(--primary-light-color);
 }
 
 .button.new {
@@ -150,7 +150,7 @@ header {
 }
 
 .card.total {
-  background: var(--green);
+  background: var(--primary-color);
   color: white;
 }
 
