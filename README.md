@@ -1,4 +1,4 @@
-# Maratona Discover Rocketseat
+# dev.finance$ | Maratona Discover
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
