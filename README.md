@@ -17,7 +17,9 @@ O projeto também utiliza como base o template standard do ESLint para melhor pa
 
 ## Projeto
 
-<p>
-  Criado durante a maratona discover fornecido pela Rocketseat, esse projeto foi criado com o intuito de ser uma simples ferramenta
+  Criado durante a maratona discover fornecido pela Rocketseat, esse projeto foi criado com o intuito de ser uma ferramenta
 para gestão financeira básica, podendo registrar seus ganhos e gastos e fazendo um calculo simples do seu valor líquido.
-</p>
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
